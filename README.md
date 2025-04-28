@@ -43,42 +43,8 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 * Extracted order_day and order_month from the order_date column to analyze trends over time.
 * Ensured all dates and times were standardized for consistency.
 
-# ❓ Questions Answered
 
-## What category of pizza was demanded the most?
-* SQL query
-SELECT 
-    pizza_category,
-    SUM(total_price) AS Total_Sales,
-    (SUM(total_price) * 100.0) / (SELECT SUM(total_price) FROM pizza_sales WHERE MONTH(order_date) = 1) AS Total_Sales_Percentage
-FROM 
-    pizza_sales
-WHERE 
-    MONTH(order_date) = 1
-GROUP BY 
-    pizza_category;
-
-
---OUTPUT--
-
-
-
-Which pizza brand brought in more sales in total price?
-
-Description of the analysis...
-
-
-What pizza size was ordered the most?
-
-Description of the analysis...
-
-
-At what time of the day do pizza sales peak?
-
-Description of the analysis...
-
-
-❓ Questions Answered
+* ❓ Questions Answered
 
 ---
 
@@ -96,4 +62,22 @@ WHERE
     MONTH(order_date) = 1
 GROUP BY 
     pizza_category;
+
+---
+
+### Which pizza brand brought in more sales in total price?
+
+**SQL Query:**
+```sql
+SELECT TOP 5 
+    pizza_name, 
+    SUM(quantity) AS Total_pizza_sold
+FROM 
+    pizza_sales
+WHERE 
+    MONTH(order_date) = 1
+GROUP BY 
+    pizza_name
+ORDER BY 
+    Total_pizza_sold ASC;
 
