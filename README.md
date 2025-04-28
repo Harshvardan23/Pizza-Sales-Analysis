@@ -77,3 +77,23 @@ At what time of the day do pizza sales peak?
 
 Description of the analysis...
 
+
+❓ Questions Answered
+
+---
+
+### What category of pizza was demanded the most?
+
+**SQL Query:**
+```sql
+SELECT 
+    pizza_category,
+    SUM(total_price) AS Total_Sales,
+    (SUM(total_price) * 100.0) / (SELECT SUM(total_price) FROM pizza_sales WHERE MONTH(order_date) = 1) AS Total_Sales_Percentage
+FROM 
+    pizza_sales
+WHERE 
+    MONTH(order_date) = 1
+GROUP BY 
+    pizza_category;
+
