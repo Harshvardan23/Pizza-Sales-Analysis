@@ -47,12 +47,17 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 
 ## What category of pizza was demanded the most?
 * SQL query
-* select pizza_category
-*sum(total_price) as "Total_Sales"
-*sum(total_price)*100 / (select sum(total_price) from pizza_sales where MONTH(order_date) = 1) as "Total_Sales"
-*from pizza_sales
-*where MONTH(order_date) = 1
-*group by pizza_category;
+SELECT 
+    pizza_category,
+    SUM(total_price) AS Total_Sales,
+    (SUM(total_price) * 100.0) / (SELECT SUM(total_price) FROM pizza_sales WHERE MONTH(order_date) = 1) AS Total_Sales_Percentage
+FROM 
+    pizza_sales
+WHERE 
+    MONTH(order_date) = 1
+GROUP BY 
+    pizza_category;
+
 
 --OUTPUT--
 
