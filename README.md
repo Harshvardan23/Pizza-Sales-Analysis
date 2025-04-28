@@ -16,9 +16,9 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 
 # 📋 Table of Contents
 
-Project Overview
-Technologies Used
-Steps Overview
+Project Overview,
+Technologies Used,
+Steps Overview,
 Data Cleaning
 Questions Answered
 Key Metrics
