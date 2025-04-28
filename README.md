@@ -26,3 +26,14 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 * Recommendations
 * SQL Integration
 * Conclusion
+
+# 📝 Steps Overview
+
+* Data Import: Imported raw pizza sales data from an SQL database into Excel using the Get Data feature.
+
+* Data Cleaning: Cleaned and standardized the data to ensure it was ready for analysis, Created a table and extracted additional date columns (order_day, order_month) for better analysis.
+
+* SQL Queries: Performed complex data aggregation and filtering using SQL queries to extract relevant information.
+
+* Analysis & Visualization: Used pivot tables and Excel charts to uncover insights and trends in the data, Created a dashboard to visually represent key findings.
+
