@@ -59,3 +59,18 @@ WHERE
     MONTH(order_date) = 1
 GROUP BY 
     pizza_category;
+```
+### Which pizza brand brought in more sales in total price?
+```sql
+SELECT TOP 5 
+    pizza_name, 
+    SUM(quantity) AS Total_pizza_sold
+FROM 
+    pizza_sales
+WHERE 
+    MONTH(order_date) = 1
+GROUP BY 
+    pizza_name
+ORDER BY 
+    Total_pizza_sold ASC;
+```
