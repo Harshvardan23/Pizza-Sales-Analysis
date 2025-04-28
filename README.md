@@ -45,8 +45,6 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 
 # ❓ Questions Answered
 
----
-
 ### What category of pizza was demanded the most?
 
 **SQL Query:**
