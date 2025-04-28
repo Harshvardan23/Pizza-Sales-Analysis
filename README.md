@@ -16,13 +16,13 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 
 # 📋 Table of Contents
 
-Project Overview,
-Technologies Used,
-Steps Overview,
-Data Cleaning
-Questions Answered
-Key Metrics
-Visual Insights
-Recommendations
-SQL Integration
-Conclusion
+* Project Overview
+* Technologies Used
+* Steps Overview
+* Data Cleaning
+* Questions Answered
+* Key Metrics
+* Visual Insights
+* Recommendations
+* SQL Integration
+* Conclusion
