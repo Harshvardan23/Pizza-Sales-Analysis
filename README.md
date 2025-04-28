@@ -60,6 +60,9 @@ WHERE
 GROUP BY 
     pizza_category;
 ```
+
+---
+
 ### Which pizza brand brought in more sales in total price?
 
 **SQL Query:**
@@ -99,3 +102,5 @@ GROUP BY
     pizza_size
 ORDER BY 
     PCT DESC;
+```
+---
