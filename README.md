@@ -7,7 +7,7 @@ In this project, the goal was to dive deep into pizza sales data to uncover mean
 
 Through the use of SQL and Excel, I was able to clean, analyze, and visualize the data in a way that helps answer important business questions like which pizza category is most popular, what time of day sales peak, and what factors drive sales. The project goes beyond just visualization – it digs into the why behind the data to create a narrative that can help businesses optimize their strategies.
 
-🧑‍💻 Technologies Used
+# 🧑‍💻 Technologies Used
 SQL: Data extraction and analysis from an SQL database.
 
 Microsoft Excel: Data cleaning, pivot tables, charts, and dashboard creation.
