@@ -122,3 +122,61 @@ ORDER BY
     DATEPART(hour, order_time);
 ```
 ---
+
+### what is the Total Revenue?
+
+**SQL Query:**
+```sql
+SELECT 
+    SUM(total_price) AS Total_Revenue 
+FROM 
+    pizza_sales;
+```
+---
+
+### What is the Average Order Value? 
+
+**SQL Query:**
+```sql
+SELECT 
+    (SUM(total_price) / COUNT(DISTINCT order_id)) AS Avg_order_Value 
+FROM 
+    pizza_sales;
+```
+---
+
+### what is the number fof Total Pizzas Sold?
+
+**SQL Query:**
+```sql
+SELECT 
+    SUM(quantity) AS Total_pizza_sold 
+FROM 
+    pizza_sales;
+```
+---
+
+### what is the number of Total Orders placed?
+
+**SQL Query:**
+```sql
+SELECT 
+    COUNT(DISTINCT order_id) AS Total_Orders 
+FROM 
+    pizza_sales;
+```
+---
+
+### what is the value of Average Pizzas Per Order?
+
+**SQL Query:**
+```sql
+SELECT 
+    CAST(
+        CAST(SUM(quantity) AS DECIMAL(10,2)) / 
+        CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) 
+    AS DECIMAL(10,2)) AS Avg_Pizzas_per_order
+FROM 
+    pizza_sales;
+```
+---
