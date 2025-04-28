@@ -37,3 +37,9 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 
 * Analysis & Visualization: Used pivot tables and Excel charts to uncover insights and trends in the data, Created a dashboard to visually represent key findings.
 
+# 🧹 Data Cleaning
+
+* Created a structured table to facilitate easy analysis.
+* Extracted order_day and order_month from the order_date column to analyze trends over time.
+* Ensured all dates and times were standardized for consistency.
+
