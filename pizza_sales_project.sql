@@ -1,6 +1,9 @@
 select * from pizza_sales;
 
+-- To find the REVENUE--
 select sum(total_price) as "TOTAL_REVENUE" from pizza_sales;
+![Pizza Image](images/revenue.jpg)
+
 
 Select round((sum(total_price)/count(distinct(order_id))),2) as "Average_order_value" from pizza_sales;
 
