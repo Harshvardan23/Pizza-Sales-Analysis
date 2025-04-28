@@ -43,7 +43,7 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 * Extracted order_day and order_month from the order_date column to analyze trends over time.
 * Ensured all dates and times were standardized for consistency.
 
-* ❓ Questions Answered
+# ❓ Questions Answered
 
 ---
 
