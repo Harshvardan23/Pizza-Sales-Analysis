@@ -61,6 +61,8 @@ GROUP BY
     pizza_category;
 ```
 ### Which pizza brand brought in more sales in total price?
+
+**SQL Query:**
 ```sql
 SELECT TOP 5 
     pizza_name, 
