@@ -104,3 +104,21 @@ ORDER BY
     PCT DESC;
 ```
 ---
+
+---
+
+### At what time of the day do pizza sales peak?
+
+**SQL Query:**
+```sql
+SELECT 
+    DATEPART(hour, order_time) AS order_hour, 
+    COUNT(DISTINCT(order_id)) AS Total_orders
+FROM 
+    pizza_sales
+GROUP BY 
+    DATEPART(hour, order_time)
+ORDER BY 
+    DATEPART(hour, order_time);
+```
+---
