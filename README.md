@@ -250,6 +250,10 @@ By combining SQL for data extraction and Excel for visualization, I was able to 
 
 --- 
 
+# 🖥️ Dashboard Preview
+
+
+
 # 📥 How to Run the Project
 To run this project and use the analysis:
 
