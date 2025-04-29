@@ -2,7 +2,7 @@
 
 ![pablo-pacheco-D3Mag4BKqns-unsplash](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/pablo-pacheco-D3Mag4BKqns-unsplash.jpg)
 
-📌 Project Overview
+# 📌 Project Overview
 Pizza is undeniably one of the most beloved meals across the globe, with its rich variety of flavors and styles. As I embarked on this data analysis project, the first thing that came to mind was to explore the patterns and trends in pizza sales. Pizza, Italy's famous tasty and affordable meal, has a way of drawing people in, and it was no surprise that I chose this topic when searching for a dataset to analyze.
 
 In this project, the goal was to dive deep into pizza sales data to uncover meaningful insights, identify key trends, and make actionable recommendations. Data analysis is more than just creating beautiful dashboards; it’s about understanding the data, finding meaningful patterns, and drawing conclusions that can drive decisions.
