@@ -62,6 +62,12 @@ GROUP BY
     pizza_category;
 ```
 ![percentage of sales via category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/percentage%20of%20sales%20via%20category.png)
+
+
+
+
+
+![percentage of sales via category(SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/percentage%20of%20sales%20via%20category(SQL).png)
 ---
 
 ### Which pizza brand brought in more sales in total price?
