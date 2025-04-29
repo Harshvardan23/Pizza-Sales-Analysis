@@ -223,3 +223,26 @@ Considering the insights into the top-selling pizzas, targeted promotions and di
 
 ### CUSTOMER SEGMENTATION:
 Understanding customer behavior based on pizza sizes and categories can help in segmenting customers. Offering personalized discounts or loyalty programs based on these segments can improve customer retention and boost sales.
+
+---
+
+# 🖥️ SQL Integration
+SQL played a crucial role in this project by facilitating data extraction and analysis:
+
+### Data Import:
+The raw data was imported into Excel using the Get Data feature from an SQL database.
+
+### SQL Queries:
+I used complex SQL queries to aggregate and manipulate data. Key SQL functions included:
+
+### DISTINCT, CAST, and DECIMAL to clean and format data.
+
+### DATENAME and DATEPART for extracting specific date information for analysis.
+
+### Subqueries, ORDER BY, and HAVING for advanced data filtering and sorting.
+
+### Answering Project Questions:
+SQL was used to extract insights like which pizza category was the most popular, what time of day pizza sales peak, and more. The SQL queries provided the foundation for answering all key questions in this project.
+
+### SQL and Excel Integration:
+By combining SQL for data extraction and Excel for visualization, I was able to analyze the data efficiently and create pivot tables and charts that clearly presented the insights.
