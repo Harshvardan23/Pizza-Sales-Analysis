@@ -253,7 +253,7 @@ By combining SQL for data extraction and Excel for visualization, I was able to 
 To run this project and use the analysis:
 
 * Clone the repository:
-git clone https://github.com/yourusername/pizza-sales-analysis.git
+  (https://github.com/Harshvardan23/Pizza-Sales-Analysis)
 
 * Data Setup:
 Import the SQL database or use the dataset provided in the project files.
