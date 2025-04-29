@@ -200,7 +200,7 @@ Some key insights are better captured visually. Below are some screenshots that 
 
 ---
 
-#💡 Recommendations
+# 💡 Recommendations
 Based on the insights gathered from the data, here are some recommendations to maximize profits and optimize sales strategies:
 
 ### CHICKEN PIZZA STRATERGY:
