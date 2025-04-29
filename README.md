@@ -145,6 +145,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
+![Average Order Value](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/Average%20Order%20Value.png)
 ---
 
 ### what is the number fof Total Pizzas Sold?
