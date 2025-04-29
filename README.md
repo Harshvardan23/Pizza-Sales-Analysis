@@ -25,7 +25,7 @@ Excel Functions: SUMIFS, COUNTIFS, DATEPART, CAST, and more.
 * Visual Insights
 * Recommendations
 * SQL Integration
-* dashboard Preview
+* Dashboard Preview
 * Conclusion
 
 # 📝 Steps Overview
