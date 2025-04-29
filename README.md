@@ -180,3 +180,20 @@ FROM
     pizza_sales;
 ```
 ---
+
+### 📊 Visual Insights
+Some key insights are better captured visually. Below are some screenshots that highlight the trends and findings from the data:
+
+* Daily Trend for Total Orders
+
+* Hourly Trend for Orders
+
+* Percentage of Sales by Pizza Category
+
+* Percentage of Sales by Pizza Size
+
+* Total Pizzas Sold by Pizza Category
+
+* Top 5 Best Sellers by Total Pizzas Sold
+
+* Bottom 5 Best Sellers by Total Pizzas Sold
