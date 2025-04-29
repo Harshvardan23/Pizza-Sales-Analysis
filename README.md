@@ -61,7 +61,24 @@ WHERE
 GROUP BY 
     pizza_category;
 ```
+**Excel Preview:**
 
+
+
+![percentage of sales via category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/percentage%20of%20sales%20via%20category.png)
+
+
+
+
+
+
+
+**SQL Preview:**
+
+
+
+
+![percentage of sales via category(SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/percentage%20of%20sales%20via%20category(SQL).png)
 ---
 
 ### Which pizza brand brought in more sales in total price?
@@ -133,7 +150,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
-![Revenue](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/revenue.jpg)
+![Revenue](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/revenue.jpg)
 ---
 
 ### What is the Average Order Value? 
@@ -145,7 +162,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
-![Average Order Value](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/Average%20Order%20Value.png)
+![Average Order Value](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Average%20Order%20Value.png)
 ---
 
 ### what is the number fof Total Pizzas Sold?
@@ -157,6 +174,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
+![Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Total%20Pizzas%20Sold.png)
 ---
 
 ### what is the number of Total Orders placed?
@@ -168,6 +186,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
+![Total Orders Placed](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Total%20Orders.png)
 ---
 
 ### what is the value of Average Pizzas Per Order?
@@ -182,6 +201,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
+![Average Pizzas Per Order](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Average%20Pizzas%20Per%20Order.png)
 ---
 
 # 📊 Visual Insights
@@ -189,17 +209,53 @@ Some key insights are better captured visually. Below are some screenshots that 
 
 * Daily Trend for Total Orders
 
+  
+  ![Daily Trend for Total Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Daily%20Trend%20for%20Total%20Orders.png)
+
+
+  
+---
 * Hourly Trend for Orders
 
+  
+  ![Hourly Trend for Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Hourly%20Trend%20for%20Orders.png)
+
+  
+---
 * Percentage of Sales by Pizza Category
 
+  
+  ![Percentage of Sales by Pizza Category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Category.png)
+
+  
+---
 * Percentage of Sales by Pizza Size
 
+  
+  ![Percentage of Sales by Pizza Size](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Size.png)
+
+  
+---
 * Total Pizzas Sold by Pizza Category
 
+  
+  ![Total Pizzas Sold by Pizza Category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Category.png)
+
+  
+---
 * Top 5 Best Sellers by Total Pizzas Sold
 
+  
+  ![Top 5 Best Sellers by Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Top%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png)
+
+  
+---
 * Bottom 5 Best Sellers by Total Pizzas Sold
+
+  
+  ![Bottom 5 Best Sellers by Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Bottom%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png)
+
+  
 
 ---
 
@@ -253,7 +309,7 @@ By combining SQL for data extraction and Excel for visualization, I was able to 
 --- 
 
 # 🖥️ Dashboard Preview
-![Dashboard](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/Dashboard.png)
+![Dashboard](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Dashboard.png)
 
 # 📥 How to Run the Project
 To run this project and use the analysis:
