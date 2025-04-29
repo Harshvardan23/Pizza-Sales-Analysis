@@ -246,3 +246,23 @@ SQL was used to extract insights like which pizza category was the most popular,
 
 ### SQL and Excel Integration:
 By combining SQL for data extraction and Excel for visualization, I was able to analyze the data efficiently and create pivot tables and charts that clearly presented the insights.
+
+--- 
+
+# 📥 How to Run the Project
+To run this project and use the analysis:
+
+* Clone the repository:
+git clone https://github.com/yourusername/pizza-sales-analysis.git
+
+* Data Setup:
+Import the SQL database or use the dataset provided in the project files.
+
+* Open in Excel:
+Open the Excel workbook to explore the pivot tables, charts, and dashboard.
+
+* Customization:
+Modify SQL queries or Excel charts to analyze other aspects of the data.
+
+
+
