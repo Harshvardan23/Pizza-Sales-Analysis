@@ -252,7 +252,7 @@ Some key insights are better captured visually. Below are some screenshots that 
 * Daily Trend for Total Orders
 
   
-  ![Daily Trend for Total Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Daily%20Trend%20for%20Total%20Orders.png)
+  ![Daily trends for total orders (Excel)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Daily%20trends%20for%20total%20orders%20(Excel).png)
 
 
   
@@ -260,7 +260,7 @@ Some key insights are better captured visually. Below are some screenshots that 
 * Hourly Trend for Orders
 
   
-  ![Hourly Trend for Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Hourly%20Trend%20for%20Orders.png)
+  ![Hourly Trend for orders(Excel)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Hourly%20Trend%20for%20orders(Excel).png)
 
   
 ---
