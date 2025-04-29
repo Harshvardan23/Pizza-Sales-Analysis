@@ -133,6 +133,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
+![Revenue](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/revenue.jpg)
 ---
 
 ### What is the Average Order Value? 
