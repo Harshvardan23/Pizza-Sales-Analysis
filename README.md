@@ -252,16 +252,16 @@ By combining SQL for data extraction and Excel for visualization, I was able to 
 # 📥 How to Run the Project
 To run this project and use the analysis:
 
-* Clone the repository:
+### Clone the repository:
   https://github.com/Harshvardan23/Pizza-Sales-Analysis
 
-* Data Setup:
+### Data Setup:
 Import the SQL database or use the dataset provided in the project files.
 
-* Open in Excel:
+### Open in Excel:
 Open the Excel workbook to explore the pivot tables, charts, and dashboard.
 
-* Customization:
+### Customization:
 Modify SQL queries or Excel charts to analyze other aspects of the data.
 
 
