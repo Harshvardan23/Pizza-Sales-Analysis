@@ -251,8 +251,7 @@ By combining SQL for data extraction and Excel for visualization, I was able to 
 --- 
 
 # 🖥️ Dashboard Preview
-
-
+![Dashboard](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/Dashboard.png)
 
 # 📥 How to Run the Project
 To run this project and use the analysis:
