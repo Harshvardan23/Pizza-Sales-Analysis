@@ -235,11 +235,11 @@ The raw data was imported into Excel using the Get Data feature from an SQL data
 ### SQL Queries:
 I used complex SQL queries to aggregate and manipulate data. Key SQL functions included:
 
-### DISTINCT, CAST, and DECIMAL to clean and format data.
+* DISTINCT, CAST, and DECIMAL to clean and format data.
 
-### DATENAME and DATEPART for extracting specific date information for analysis.
+* DATENAME and DATEPART for extracting specific date information for analysis.
 
-### Subqueries, ORDER BY, and HAVING for advanced data filtering and sorting.
+* Subqueries, ORDER BY, and HAVING for advanced data filtering and sorting.
 
 ### Answering Project Questions:
 SQL was used to extract insights like which pizza category was the most popular, what time of day pizza sales peak, and more. The SQL queries provided the foundation for answering all key questions in this project.
