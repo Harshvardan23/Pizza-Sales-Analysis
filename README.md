@@ -67,7 +67,7 @@ GROUP BY
 
 
 
-![percentage of sales via category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/percentage%20of%20sales%20via%20category.png)
+![percentage of sales by pizza category (Excel)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/percentage%20of%20sales%20by%20pizza%20category%20(Excel).png)
 
 
 
@@ -80,7 +80,7 @@ GROUP BY
 
 
 
-![percentage of sales via category(SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/percentage%20of%20sales%20via%20category(SQL).png)
+![percentage of sales by pizza category (SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/percentage%20of%20sales%20by%20pizza%20category%20(SQL).png)
 ---
 
 ### Which pizza brand brought in more sales in total price?
@@ -99,7 +99,12 @@ GROUP BY
 ORDER BY 
     Total_pizza_sold ASC;
 ```
+**SQL Preview:**
 
+
+
+
+![Which pizza brand brought in more sales in total price(SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Which%20pizza%20brand%20brought%20in%20more%20sales%20in%20total%20price(SQL).png)
 ---
 
 ### What pizza size was ordered the most?
@@ -124,7 +129,24 @@ ORDER BY
     PCT DESC;
 ```
 ---
+**Excel Preview:**
 
+
+
+![What pizza size that was ordered the most (Excel)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/What%20pizza%20size%20that%20was%20ordered%20the%20most%20(Excel).png)
+
+
+
+
+
+
+
+**SQL Preview:**
+
+
+
+
+![What pizza size that was ordered the most (SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/What%20pizza%20size%20that%20was%20ordered%20the%20most%20(SQL).png)
 ---
 
 ### At what time of the day do pizza sales peak?
@@ -141,6 +163,24 @@ GROUP BY
 ORDER BY 
     DATEPART(hour, order_time);
 ```
+**Excel Preview:**
+
+
+
+![At what time of the day do pizza sales peak(Excel)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/At%20what%20time%20of%20the%20day%20do%20pizza%20sales%20peak(Excel).png)
+
+
+
+
+
+
+
+**SQL Preview:**
+
+
+
+
+![At what time of the day do pizza sales peak(SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/At%20what%20time%20of%20the%20day%20do%20pizza%20sales%20peak(SQL).png)
 ---
 
 ### what is the Total Revenue?
@@ -152,7 +192,7 @@ SELECT
 FROM 
     pizza_sales;
 ```
-![Revenue](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/revenue.jpg)
+![Total revenue (SQL)](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Total%20revenue%20(SQL).jpg)
 ---
 
 ### What is the Average Order Value? 
