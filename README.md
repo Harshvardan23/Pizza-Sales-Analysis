@@ -264,5 +264,9 @@ Open the Excel workbook to explore the pivot tables, charts, and dashboard.
 ### Customization:
 Modify SQL queries or Excel charts to analyze other aspects of the data.
 
+--- 
 
+# 👨‍💻 Author
+[HARSH VARDAN]
+GitHub: @yourusername
 
