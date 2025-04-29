@@ -191,25 +191,54 @@ FROM
 Some key insights are better captured visually. Below are some screenshots that highlight the trends and findings from the data:
 
 * Daily Trend for Total Orders
+
+  
   ![Daily Trend for Total Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Daily%20Trend%20for%20Total%20Orders.png)
 
+
+  
+
 * Hourly Trend for Orders
-  ![Hourly Trend for Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Hourly%20Trend%20for%20Orders.png) 
+
+  
+  ![Hourly Trend for Orders](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Hourly%20Trend%20for%20Orders.png)
+
+  
 
 * Percentage of Sales by Pizza Category
-  ![Percentage of Sales by Pizza Category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Category.png) 
+
+  
+  ![Percentage of Sales by Pizza Category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Category.png)
+
+  
 
 * Percentage of Sales by Pizza Size
-  ![Percentage of Sales by Pizza Size](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Size.png)   
+
+  
+  ![Percentage of Sales by Pizza Size](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Size.png)
+
+  
 
 * Total Pizzas Sold by Pizza Category
-  ![Total Pizzas Sold by Pizza Category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Category.png)   
+
+  
+  ![Total Pizzas Sold by Pizza Category](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Percentage%20of%20Sales%20by%20Pizza%20Category.png)
+
+  
 
 * Top 5 Best Sellers by Total Pizzas Sold
-  ![Top 5 Best Sellers by Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Top%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png) 
+
+  
+  ![Top 5 Best Sellers by Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Top%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png)
+
+  
 
 * Bottom 5 Best Sellers by Total Pizzas Sold
-  ![Bottom 5 Best Sellers by Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Bottom%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png) 
+
+  
+  ![Bottom 5 Best Sellers by Total Pizzas Sold](https://github.com/Harshvardan23/Pizza-Sales-Analysis/blob/main/images_used/Bottom%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png)
+
+  
 
 ---
 
