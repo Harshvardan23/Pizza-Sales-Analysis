@@ -203,23 +203,23 @@ Some key insights are better captured visually. Below are some screenshots that 
 ### 💡 Recommendations
 Based on the insights gathered from the data, here are some recommendations to maximize profits and optimize sales strategies:
 
-Chicken Pizza Strategy:
+## CHICKEN PIZZA STRATERGY:
 The Chicken category brings in the highest total sales despite being one of the least demanded categories. This indicates that while customers may prefer other pizza types, chicken pizzas are more expensive. To attract more customers, I recommend offering affordable chicken pizza options that can appeal to a wider audience without sacrificing profitability.
 
-Focus on Popular Sizes:
+## FOUCS ON POPULAR SIZES:
 The Large, Medium, and Small sizes continue to dominate the market. I recommend continuing to produce these sizes in larger quantities. Special attention should be given to optimizing production and distribution strategies for these pizza sizes to meet customer demand effectively.
 
-Peak Sales Period:
+## PEAK SALES PERIOD:
 Sales data shows that pizza orders peak at midday and around the 5 PM to 6 PM period. To avoid running out of stock during peak hours, I recommend implementing inventory management systems that can anticipate demand and ensure enough pizzas are produced and available during these critical times.
 
-Dynamic Pricing Strategy:
+## DYNAMIC PRICING STRATERGY:
 Based on demand and price sensitivity, I recommend implementing a dynamic pricing strategy where popular pizza categories or sizes are sold at slightly higher prices during off-peak hours and discounted during peak demand periods. This could help balance supply and demand more effectively.
 
-Menu Optimization:
+## MENU OPTIMIZATION:
 Given that some pizza categories or types do not sell as well, I suggest menu optimization — perhaps focusing more on popular items and offering seasonal promotions or limited-edition pizzas to stimulate demand.
 
-Promotions and Discounts:
+## PROMOTIONS AND DISCOUNTS:
 Considering the insights into the top-selling pizzas, targeted promotions and discounts can be introduced for the most popular pizzas, while other pizzas could be promoted with creative deals to increase their sales.
 
-Customer Segmentation:
+## CUSTOMER SEGMENTATION:
 Understanding customer behavior based on pizza sizes and categories can help in segmenting customers. Offering personalized discounts or loyalty programs based on these segments can improve customer retention and boost sales.
