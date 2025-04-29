@@ -268,5 +268,5 @@ Modify SQL queries or Excel charts to analyze other aspects of the data.
 
 # 👨‍💻 Author
 [HARSH VARDAN]
-GitHub: @yourusername
+GitHub: @https://github.com/Harshvardan23
 
